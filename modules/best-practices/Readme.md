@@ -48,5 +48,10 @@ Remember, your buddy can always help you with any of the points above.
 - [x] Presented back to Novoda on the learnings
 - [x] Try to attend a kata (if you’ve not been in one yet, ask your buddy to run one!)
 
+## Completed work
+
+- Clean up code PR: https://github.com/tomsammons/android-architecture-components/pull/18
+- H&T about learnings: https://www.youtube.com/watch?v=-Qn986GRFps&t=0s&list=PLsAfcuwrBov7UYpOrN8ez7Y0e-O38bOoa&index=7
+
 
 
