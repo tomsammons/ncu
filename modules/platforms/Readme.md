@@ -58,4 +58,9 @@ Remember, your buddy can always help you with any of the points above.
 - [x] Share back to the team what you learned
 - [x] Attend a kata if you’ve haven’t already
 
+## Completed Work
+
+- Completed codelab: https://codelabs.developers.google.com/codelabs/build-app-with-arch-components/
+- Repo: https://github.com/tomsammons/android-architecture-components
+- Feedback: https://github.com/tomsammons/android-architecture-components/pull/4
 
