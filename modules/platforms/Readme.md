@@ -51,11 +51,11 @@ Remember, your buddy can always help you with any of the points above.
 
 ## Progress log
 
-- [ ] Find an appealing resource from which you can learn something new on your platform
-- [ ] Apply your learnings to some code 
-- [ ] Apply Novoda’s style guidelines
-- [ ] Get feedback from your peers 
-- [ ] Share back to the team what you learned
-- [ ] Attend a kata if you’ve haven’t already
+- [x] Find an appealing resource from which you can learn something new on your platform
+- [x] Apply your learnings to some code 
+- [x] Apply Novoda’s style guidelines
+- [x] Get feedback from your peers 
+- [x] Share back to the team what you learned
+- [x] Attend a kata if you’ve haven’t already
 
 

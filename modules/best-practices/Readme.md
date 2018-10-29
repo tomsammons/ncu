@@ -41,12 +41,12 @@ Remember, your buddy can always help you with any of the points above.
 
 ## Progress log
 
-- [ ] Read Clean Code or another book if applicable
-- [ ] Clean up code that could be improved by using something learned from the book
-- [ ] Made a pull request and had someone review it
-- [ ] Responded to the feedback of others
-- [ ] Presented back to Novoda on the learnings
-- [ ] Try to attend a kata (if you’ve not been in one yet, ask your buddy to run one!)
+- [x] Read Clean Code or another book if applicable
+- [x] Clean up code that could be improved by using something learned from the book
+- [x] Made a pull request and had someone review it
+- [x] Responded to the feedback of others
+- [x] Presented back to Novoda on the learnings
+- [x] Try to attend a kata (if you’ve not been in one yet, ask your buddy to run one!)
 
 
 
